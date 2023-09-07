@@ -1,0 +1,30 @@
+
+.hero{
+    background-color:rgb(226, 199, 153);
+}
+.container1{
+    background-color:#9A3B3B;
+}
+.row{
+    background-color:rgb(192, 130, 97);
+}
+footer{
+    background-color: bisque;
+}
+.container2{
+    background-color:rgb(226, 199, 153);
+}
+.container4{
+    background-color:rgb(242, 236, 190);
+}
+span{
+    color: white;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: white;
+}
